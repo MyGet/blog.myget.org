@@ -9,7 +9,7 @@ tags: ["Community news", "Development", "Feature", "PHP", "Composer"]
 author: "Maarten Balliauw"
 ---
 
-<img src="../images/2017/09/logo-php-composer.png" alt="MyGet supports hosting private PHP Composer packages" align="right" />
+<img src="/images/2017/09/logo-php-composer.png" alt="MyGet supports hosting private PHP Composer packages" align="right" />
 
 Good news everyone! We just shipped <a href="https://www.phpcomposer.org/" target="_blank">PHP Composer</a> support (preview)! If you are building PHP applications and libraries, you can now package them and add these to your MyGet feeds.
 
