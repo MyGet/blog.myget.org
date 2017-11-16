@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inspecting audit logs in MyGet Enterprise"
-date: 2017-11-09 07:43:03 +0100
+date: 2017-11-16 07:43:03 +0100
 comments: true
 published: true
 categories: ["post"]
