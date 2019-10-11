@@ -5,7 +5,7 @@ date: 2019-08-01 14:00:00 -0500
 comments: true
 published: true
 categories: ["post"]
-tags:
+tags: ["Community news"]
 author: "Matthew Caponigro, Marketing Manager"
 ---
 Earlier this month, MyGet Team Lead, Konrad Zuwala, joined us for a live webinar to talk DevOps, secure package management, and best practices for implementing secure package management in your DevOps toolchain.
